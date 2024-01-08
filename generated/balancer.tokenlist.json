@@ -17,7 +17,7 @@
         "Swap"
     ],
     "logoURI": "https://raw.githubusercontent.com/balancer/pebbles/master/images/pebbles-pad.256w.png",
-    "timestamp": "2024-01-03T15:03:55.689Z",
+    "timestamp": "2024-01-08T16:13:33.443Z",
     "tokens": [
         {
             "chainId": 1,
@@ -6578,6 +6578,20 @@
             "logoURI": "https://raw.githubusercontent.com/balancer/tokenlists/main/src/assets/images/tokens/0x22fc5a29bd3d6cce19a06f844019fd506fce4455.png"
         },
         {
+            "chainId": 1,
+            "address": "0x2156393EA1aF6Ed281C767A60555502CdDdFd97e",
+            "name": "Sparkbot",
+            "symbol": "SB",
+            "decimals": 18
+        },
+        {
+            "chainId": 1,
+            "address": "0x26C0A99c12B16154C1D6a9774651491430FE638C",
+            "name": "BRCLauncher",
+            "symbol": "BRC",
+            "decimals": 18
+        },
+        {
             "chainId": 5,
             "address": "0xdFCeA9088c8A88A76FF74892C1457C17dfeef9C1",
             "name": "Wrapped Ether",
@@ -7177,16 +7191,14 @@
             "address": "0xb4Bc46bc6cB217B59ea8F4530BaE26Bf69F677f0",
             "name": "BeethovenxToken",
             "symbol": "BEETS",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/19158/large/beets-icon-large.png?1696518608"
+            "decimals": 18
         },
         {
             "chainId": 10,
             "address": "0xFE8B128bA8C78aabC59d4c64cEE7fF28e9379921",
             "name": "Balancer",
             "symbol": "BAL",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/11683/large/Balancer.png?1696511572"
+            "decimals": 18
         },
         {
             "chainId": 10,
@@ -7207,8 +7219,7 @@
             "address": "0x350a791Bfc2C21F9Ed5d10980Dad2e2638ffa7f6",
             "name": "ChainLink Token",
             "symbol": "LINK",
-            "decimals": 18,
-            "logoURI": "https://assets.coingecko.com/coins/images/877/large/chainlink-new-logo.png?1696502009"
+            "decimals": 18
         },
         {
             "chainId": 10,
@@ -12048,6 +12059,20 @@
             "logoURI": "https://assets.coingecko.com/coins/images/32847/large/usdc_%281%29.png?1699619355"
         },
         {
+            "chainId": 42161,
+            "address": "0xdfa752ca3fF49d4B6dBE08E2d5a111f51773D395",
+            "name": "Balancer sFRAX/FRAX",
+            "symbol": "sFRAX/FRAX",
+            "decimals": 18
+        },
+        {
+            "chainId": 42161,
+            "address": "0xddBfBd5dc3BA0FeB96Cb513B689966b2176d4c09",
+            "name": "STEAK",
+            "symbol": "STEAK",
+            "decimals": 18
+        },
+        {
             "chainId": 43114,
             "address": "0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7",
             "name": "Wrapped AVAX",
@@ -12511,6 +12536,14 @@
             "name": "Balancer sAVAX/ggAVAX/yyAVAX",
             "symbol": "sAVAX/ggAVAX/yyAVAX",
             "decimals": 18
+        },
+        {
+            "chainId": 43114,
+            "address": "0xb279f8DD152B99Ec1D84A489D32c35bC0C7F5674",
+            "name": "STEAK",
+            "symbol": "STEAK",
+            "decimals": 18,
+            "logoURI": "https://assets.coingecko.com/coins/images/25688/large/logo_400.png?1696524815"
         },
         {
             "chainId": 11155111,
